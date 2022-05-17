@@ -128,5 +128,5 @@ count <- 0
      z <- z-1
    }
  }
-  
+  ## making the user diffined funct
    
